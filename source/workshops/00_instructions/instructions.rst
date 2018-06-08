@@ -35,6 +35,8 @@ Workshop schedule
 Linux/Unix and Bash
 ====================
 
+Here you can see the linux instructions. 
+
 Git and SCC
 ====================
 
